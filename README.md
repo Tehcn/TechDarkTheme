@@ -1,0 +1,11 @@
+# Tech Dark
+
+Vibrant, Dark, Elegant
+
+Tech Dark is the theme for people who want easily identifiable code bits without the over saturated mess that can come with some themes. This theme contains vibrant, yet dark colors that allow you to program into the night.
+
+---
+
+JavaScript Samples:
+
+<img src="https://lh3.googleusercontent.com/74xRq4HcJbKVowW_ewGMPf90FYhfR0D-4G7K7iCwpTOB-3nPFYUIsDC4gqjWmfiI2naGEcSd5vDWdNEi0ELz1H2L30TbjdCLPoLEzKlLyIom5GFVlPlitigMFo8QL1Di4sZ-xm-t7S751fzHROglhk_O9g535DW6MfBST78xAG7qgTDsZ3O_0Mv763eVICB3w4Ti6X29oGUXJtT8Pdy0vrPZJFzdApPCn-gj0F6AfQ_DwkXdYNl6f9uogMK2zTZBln_1GFQyHtlwrTz-Ora-CgjHHgXVesd9dm9I1MIDayLPe7bXqDTCJaCkJGOU9HILNhJEElrV4plJH0G5m8Fho_k7gVc7HhU-gjC9PLWiw0-1SXmBlk-az2-cl37l3JoKmIly7GHMtzOA1Evh_qau7G9tJ_kfIUHv3wckaom4bgChWktdP9jy5gPNnE_C_94qVH3CxLDa_dcMf1ALQ_9wzSzA7J8WFlCCnhZZWtraxVsnPOVLs5fXkM3ge00M8PMoY9K_U5hZqN89o5JzWyaiUaBvPpTHDeU_poP0KdpiLdkf-kNinqPXNuf_Cf4r-cs32omYbAFaf6_-AVzfOlwcr5J4R-81buNRpY8O2CgYhLI4n-GWf4izSSmO71ZbWsHtjGL7587CRVtMAnDRX9WiLuKai0_PUxYvOjytb-IeNwubeBkZ5aOc19HPjHe77YyX8icSPYiyeACj1x-7s0Dq30A=w581-h515-no" alt="Fetch Request Example" width="350"/>

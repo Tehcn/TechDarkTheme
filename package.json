@@ -1,0 +1,22 @@
+{
+    "name": "tech-dark-theme",
+    "displayName": "Tech Dark Theme",
+    "description": "You want dark vibrant? This theme will serve your needs! With a vibrant dark theme, you can finally code in peace.",
+    "version": "0.0.1",
+    "publisher": "NoahPerry",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tech Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tech Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
